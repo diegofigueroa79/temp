@@ -1,0 +1,106 @@
+print(documents_txt[0].text)
+ INCOME & EXPENSE SUMMARY
+                                                      Twelve (12) Months                  Twelve (12) Months
+ TOWN PARK                                          Ending December 2019                Ending December 2018
+                                                 (Per Year)     PSF       Per Unit   (Per Year)     PSF       Per Unit
+Potential Gross Rental Income                    $1,250,760      $9.89     $10,423   $1,218,490      $9.64     $10,154
+Less: Vacancy / Collection Loss / Loss to Lease   ($75,535)                   -6.0%   ($76,730)                   -6.3%
+Effective Rental Income                          $1,175,225      $9.29      $9,794   $1,141,760      $9.03      $9,515
+Plus: Misc. / Other Income                          $40,691      $0.32        $339      $38,566      $0.31         $321
+Effective Gross Income                           $1,215,916      $9.62     $10,133   $1,180,326      $9.34      $9,836
+FIXED EXPENSES
+1    Real Estate Expenses                          $112,457      $0.89        $937     $109,350      $0.86         $911
+2.   Insurance                                      $59,475      $0.47        $496      $57,442      $0.45         $479
+Subtotal - Fixed                                   $171,932      $1.36      $1,433     $166,792      $1.32      $1,390
+VARIABLE EXPENSES
+3.   Management Fees                                $38,400      $0.30        $320      $38,400      $0.30         $320
+     % of EGI                                         3.16%                               3.25%
+4a. General & Administrative                        $77,772      $0.62        $648      $29,919      $0.24         $249
+4b. Payroll & Benefits                             $116,498      $0.92        $971     $136,154      $1.08      $1,135
+4c. Marketing                                        $1,770      $0.01          $15      $6,327      $0.05          $53
+Subtotal - Adm./Payroll/Mktg.                      $196,040      $1.55      $1,634     $172,400      $1.36      $1,437
+Utilities
+5.   Electricity                                    $12,568      $0.10        $105      $15,680      $0.12         $131
+6.   Water/Sewer                                    $97,040      $0.77        $809     $120,306      $0.95      $1,003
+7.   Gas                                                  $0     $0.00           $0           $0     $0.00           $0
+Subtotal - Utilities                               $109,608      $0.87        $913     $135,986      $1.08      $1,133
+8.   Other Operating / Miscellaneous                 $8,208       $0.06         $68      $4,349       $0.03         $36
+Maintenance
+9.   Building Services                              $14,515      $0.11        $121      $14,027      $0.11         $117
+10. Grounds Maintenance                             $16,330      $0.13        $136      $18,900      $0.15         $158
+11. Maint./Repairs/Supplies                         $40,064      $0.32        $334      $28,168      $0.22        $235
+12. Painting/Decorating (Make Ready)                 $6,702      $0.05          $56      $3,512      $0.03          $29
+Subtotal - Maintenance                              $77,611      $0.61        $647      $64,607      $0.51         $538
+Subtotal - Variable                                $429,867      $3.40      $3,582     $415,742      $3.29      $3,465
+TOTAL FIXED & VARIABLE EXPENSES                    $601,799      $4.76      $5,015     $582,534      $4.61      $4,854
+13. Reserves/Capital Expenses                      $131,887      $1.04      $1,099       $9,511      $0.08          $79
+TOTAL EXPENSES                                     $733,686      $5.80      $6,114     $592,045      $4.68      $4,934
+PERCENT OF EGI                                                                60.3%                               50.2%
+NET OPERATING INCOME                               $482,230      $3.81      $4,019     $588,281      $4.65      $4,902
+                                                   -96-
+---
+                                       (Per Unit) $9,266     $9,723     $856                  $410  4.2% $274       $66              $158       $0    $855                     $187
+                                                       $357                   $316 $1,144                      $1,483     $1,900           $683                $104       $150       $358 $131  $923     $4,229     $377
+           2002 178   1,043 Median                                                                                                                                                                             $5,576$6,086    61.4%
+     LIHTC EXPENSE COMPARABLES
+TWENTY (20) 1990's - 2000's ERA
+                                       (Per Unit)      $413             $838  $333            $412  4.3% $303       $74              $155       $6    $930                $159 $201       $138                      $499
+                                                  $9,306     $9,719                $1,170                      $1,552     $1,929           $770                $127                  $412       $911     $4,308$5,479$5,978    61.7%
+           2003 169   1,032 Mean
+                                       (Per Unit) $11,713    $12,257                          $550  5.6% $488                        $238       $67   $1,628                   $388                                 $1,504
+                                                       $948             $1,116$631                                  $189  $2,399           $1,468                         $245            $340           $5,588$6,793$7,017    72.6%
+                                                                                   $1,693                      $2,156                                          $346                  $1,155     $2,074
+           2015 250   1,208 High
+                                       (Per Unit)      $70   $7,143     $387  $198                  3.1% $159       $10              $75$46     $0    $161                $94  $105       $0                        $0
+                                                  $7,072                           $597       $281             $1,283     $1,580                               $0                    $152       $479     $3,067$3,664$4,126    50.8%
+           1998 72    911Low
+                                                  $10,495    $10,793    $967                             $260       $53              $144  $779 $2    $939
+                                                       $310                   $458            $440             $1,689     $1,990                                          $164 $273  $744 $244  $1,460   $4,866     $163
+     AVG.  2002 181   1,083 Average    (Per Unit)                                  $1,425           4.2%                                                       $146                                            $6,136$6,055    58.3%
+3 LIHTC EXPENSE COMPARABLES
+                                                       $313  $10,697          $428                       $267       $53   $1,947     $148       $2    $896                                $249                      $122
+                                       (Per Unit) $10,384               $948       $1,376     $445  4.2%       $1,627                      $746                $127       $171 $267  $683       $1,371   $4,785$6,161$6,283    58.7%
+     3     2002 183   1,078
+                                                                                                               $2,156                                 $1,218
+                                                  $11,114                                                $353       $84              $166  $1,048
+                                                       $358  $11,438          $626 $1,693                                 $2,399                $4                                        $340  $2,074   $5,588     $367
+                                       (Per Unit)                       $1,067                $465  4.5%                                                       $265       $211 $388  $1,155                    $6,793$6,793    59.4%
+     2     2003 192   1,116
+                                                             $10,245                                                $23   $1,624     $118  $543       $704                                      $935     $4,224$5,455$5,821
+                                                       $258                   $319 $1,205                $159  $1,283                           $0                                        $142                      $0
+                                       (Per Unit) $9,987                $886                  $409  4.0%                                                       $45        $110 $164  $394                                      56.8% (1) LIHTC commu          -97-
+     1     2002 168   1,056                                                                                                                                                                                                               (2) LIHTC com
+                                                                                                                                                                                                                                                (3) LIHTC co
+                                                  $9,794     $10,133               $1,433                                 $1,634                                                                         $3,582     $1,099
+                                            Per Unit   $339             $937  $496            $320  3.2% $648  $971 $15              $105  $809 $0    $913     $68        $121 $136  $334 $56   $647          $5,015     $6,11460.3%
+                                       Ending 12/2019
+                                 12 Months
+                            Subject
+           2003 120   1,054
+                                                                                                                                                                                                $77,611  $429,867        $733,686
+                                            $ Amt /                                                                                                   $109,608                                                $601,799
+                                                  $1,175,225                       $171,932                    $116,498   $196,040                                                                                  $131,887
+                                                       $40,691
+                                                             $1,215,916       $59,475                                                $12,568    $0                                        $6,702
+                                                                                                         $77,772    $1,770                 $97,040                        $14,515    $40,064
+                                                                        $112,457              $38,400                                                          $8,208          $16,330
+                      Unit Size--->
+                Complex Size--->
+           YOC--->
+                                                                                                                                                                                                              TOTAL FIXED & VARIABLE
+                                                                                                                                                                                          Painting/Decorating (Make Ready)
+                                                                                                                                                               Other Operating/Miscellaneous
+                                                                                                                                                                                     Maintenance/Repairs/Supplies
+                                                                                                         General & Administrative
+                                                       Miscellaneous/Other Income                                         Subtotal - Adm./Payroll/Mktg.                                                             Reserves/Capital Expenses
+                                                                        Real Estate Expenses                                                                                   Grounds Maintenance
+                                                                                         VARIABLE EXPENSES
+                                                  Effective Rental IncomeManagement Fees                       Payroll & Benefits
+                                                             Effective Gross Income                                                             Gas/Heating Fuel          Building Services
+                                                                  FIXED EXPENSES                                                                                                                Subtotal - Maintenance   TOTAL EXPENSES
+EXPENSE DATA                                                                                                                               Water/SewerSubtotal - Utilities                               Subtotal - Variable   PERCENT OF EGI
+                                                                                   Subtotal - Fixed                 Marketing        Electricity
+                                                                              Insurance             % of EGI                                                        Maintenance
+                                                                                                                                Utilities
+                                                                        1     2.              3.         4a.   4b.4c.                5.    6.   7.             8.         9.   10.11.     12.                       13.
+
