@@ -1,0 +1,116 @@
+Property_Appraisal
+         Services                                        ZONING
+"Zoning shapes the city; through zoning, a city controls building size, population density, and the
+way land is used.  Along with the city's power to budget, tax, and condemn property, it is a key
+                                                3
+tool for carrying out planning policy            ". The current NYC zoning resolution was enacted and took
+effect in 1961.  This zoning resolution coordinated use and bulk regulations, and incorporated
+parking requirements.
+The City is divided into three separate zoning districts: Residential (R), Commercial (C), and
+Manufacturing (M).  These three basic categories are further subdivided into low, moderate, and
+high density districts.
+Development        within   these districts is regulated by use, bulk, and parking regulations.  Each
+zoning district regulates permitted uses, the land/building size ratio, the required open space,
+required setbacks, and the amount of required parking.
+The uses permitted in each district are found within one or more of the eighteen Use Groups.
+The uses listed in each group have common functional or nuisance characteristics, the higher the
+use group, the greater the nuisance.
+                        SA                                  MPL                                               E
+Bulk  (building size) is regulated by the use of Floor Area Ratios (FAR) and Open Space Ratios
+(OSR).  These control the physical volume of buildings, as well as the relationship of building size
+to land area.  The FAR expresses the relationship of the amount of useable floor area to the
+amount of lot area.  Therefore a 10,000 square foot lot with a FAR of 10 could contain 100,000
+square feet of floor area.  This maximum floor area is further reduced by applying an Open
+Space Ratio.  The OSR, found in residential districts, requires that a minimum amount of open
+lot area be provided for each square foot of floor area. Expressed as a percent, an OSR of 20
+would mandate that 20,000 square feet of open land area be provided for a 100,000 square foot
+building.
+Other standards reducing building size include maximum density requirements (units per acre),
+front,  side    and    rear   yard    requirements,       maximum        building     height    regulations,  and    parking
+requirements.
+Manufacturing uses and certain intense commercial uses are subject to performance standards
+which limit noise, air pollution, and other nuisance creating activity.
+Regulations are not binding on properties constructed prior to the 1961 resolution.  Properties
+that have been grand-fathered are considered legal, pre-existing, non-conforming uses.  They
+may not be altered other than to conform to zoning.
+Many of the properties in the City do not conform to zoning, mainly due to the lack of off-street
+parking.  Variances and special permits may be granted on a property by property basis.
+A summary of the zoning requirements are presented on the following page:
+3 Zoning Handbook, The City of New York, Department of City Planning                                          5535netherland.doc
+                                                                49                                            5535netherland.d
+---
+                                                    1,700 18    R district overlay             30
+                                                                       R district overlay
+                                                                             30 R district overlay
+                                                                                         0 R district overlay
+                                                                                                      0 R district overlay
+                                                                                                            85 R district overlay
+                                                                                                                  R district overlay
+                                                                                   581 R district overlay               R district overlay
+                     C1-C6 Permitted          Permitted
+                                  Permitted
+                                        Permitted
+                                  Permitted         1,700 18     10.00 0.0                     30                 2.7   0.40
+                           Permitted          Permitted
+                                        Permitted
+                     R10
+                                  Permitted         1,700 18           6.2   41    425   0     30     0     85    2.7   0.40
+                           Permitted          Permitted
+                                        Permitted                7.52
+                     R9
+                                  Permitted         1,700 18           10.7  45    387   0     30     0     85    2.7   0.40                           ~  parking waived on lots under 1
+                           Permitted          Permitted
+Zoning Requirements  R8                 Permitted                6.02                                                                                        ~  parking also waived when s
+                                  Permitted         1,700 18           22.0  77    226   0     30     0     60    2.7   0.60                                             Stores allowed on first f
+                           Permitted          Permitted
+                                        Permitted                3.44
+                     R7
+                                  Permitted         1,700 18           33.5  99    176   0     30     0     60    2.7   0.70
+                           Permitted          Permitted
+                                        Permitted                2.43
+                     R6
+                                                                                                                                                                                     NYC Planning Dept & Property Ap
+                                  Permitted         1,700 18           40.0  172   101   18    30     8     35    1.0   0.85
+                           Permitted          Permitted
+                                        Permitted                1.25
+                     R5                                                                                                                    NOTES: *    corner lots, front yard = 10
+                                  Permitted         1,700 18           80.0  27464       18    30     8     25    1.0   1.00                     **  corner lots, none required
+                           Permitted          Permitted
+                                        Permitted                0.75
+                     R4
+                                        only R3-2   1,700 18           150.0 376   46    15    30     8     25    1.0   1.00
+                                  Permitted
+                           Permitted          Permitted          0.50
+                     R3
+                           Permitted          Permitted
+                     R2                             N/A   N/A    N/A   N/A   N/A   N/A   N/A   N/A    N/A   N/A   N/AN/A
+                           Permitted          Permitted
+                                                          N/A                N/A   N/A   N/A                      N/A   N/A
+                     R1                             N/A          N/A   N/A                     N/AN/A       Maximum Height at street line N/A
+                                                                       Minimum Open Space Ratio
+                                                                             Minimum Lot Area (sf)/Room
+                                                                 Maximum Floor Area Ratio                         Sky Exposure Plane Slope
+                                                                                               Minimum Rear Yards (ft)**
+                                                                                         Minimum Front Yard (ft)*       Parking (space per unit)~
+                     PERMITTED USES                       Minimum Lot Width (ft)                      Minimum Side Yards (ft)
+                           Single Family Dwelling   Minimum Lot Size (sf)
+                                        Multi-Family DwellingMaximum Units/Acre
+                                  Two Family Dwelling
+                                              Community Facility                            SAMPLE
+---
+ZONING MAP
+Major Zoring Clansifigatlons;
+R4607
+M3-I
+CQUVERCILDISTRIGT
+7-1-1908
+I5
+Subject
+Ic4-1
+0
+Mar
+Za
+R66
+262d
+DZRNE
+
