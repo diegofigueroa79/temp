@@ -39,8 +39,7 @@ mf:TotalUnits rdf:type rdfs:Class ;
 
 mf:PropertyAddress rdf:type rdfs:Class ;
   rdfs:label "Property Address" ;
-  rdfs:subClassOf mf:NamedEntity ;
-  mf:hasStreetAddress rdfs:Datatype ;
+  mf:hasStreetAddress rdf:type rdfs:Datatype ;
   mf:hasCity rdf:type rdfs:Datatype ;
   mf:hasState rdf:type rdfs:Datatype ;
   mf:hasZipCode rdf:type rdfs:Datatype .
